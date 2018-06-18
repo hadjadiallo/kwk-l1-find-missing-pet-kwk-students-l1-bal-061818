@@ -46,8 +46,7 @@ cd ..
 mv painting-elephants.jpg ..
 cd ..
 mv painting-elephants.jpg elephants
-cd elephants
-mv painting-elephants.jpg painters
+cd elephantsmv painting-elephants.jpg painters
 ```
 
 BUT WOW that's a lot of steps. Programming is all about making things simple, so there has to be a better way. In fact, we can actually combine all the steps into one short line:
